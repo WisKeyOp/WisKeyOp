@@ -12,8 +12,7 @@
 - 🏥 **[BITAID](https://github.com/WisKeyOp/BITAID)** – AI Medical Assistant with **95% diagnostic accuracy**, voice-first consultations  
 - 🎓 **[Knowledge Bridge](https://github.com/WisKeyOp/Knowledge_main)** – MERN EdTech platform with secure auth, payments, dashboards  
 - 💰 **[DivvyUP](https://github.com/WisKeyOp/DivvyUP)** – Smart expense splitter with graph-based debt simplification  
-- 🆘 **[RapAid](https://github.com/WisKeyOp/disaster-relief-project-main)** – Disaster relief hub with real-time volunteer/resource coordination  
-- 📊 **[Finance Tracker](https://github.com/WisKeyOp/FinanceTracker)** – Personal finance manager with analytics & charts  
+- 🆘 **[RapAid](https://github.com/WisKeyOp/disaster-relief-project-main)** – Disaster relief hub with real-time volunteer/resource coordination   
 - 🚀 **[Career Connect](https://github.com/WisKeyOp/Job-Portal)** – Modern job portal app matching job seekers and employers efficiently.
 
 ---
